@@ -1,11 +1,11 @@
-### Olá! Me chamo Uriel Araújo 🤓.
+### Olá! Me chamo Uriel Araújo.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-ara%C3%BAjo-89b1602a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uri_troll_br/)
 
 
-![MerlinTroll GitHub stats](https://github-readme-stats.vercel.app/api?username=merlintroll&show_icons=true&theme=tokyonight)
+![AraujoUriel GitHub stats](https://github-readme-stats.vercel.app/api?username=araujouriel&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlintroll&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujouriel&layout=compact)
 
 ### Tecnologias que eu uso e estudo
 <div style="display: inline_block"><br/>
