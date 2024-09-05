@@ -5,7 +5,7 @@
 
 ![AraujoUriel GitHub stats](https://github-readme-stats.vercel.app/api?username=araujouriel&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujouriel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujouriel&layout=compact&theme=tokyonight)
 
 ### Tecnologias que eu uso e estudo
 <div style="display: inline_block"><br/>
